@@ -13,7 +13,7 @@ public class AppTest2 {
 
     @Test
     public void testApp(){
-        Assert.assertEquals(25,  api.calcArea(5, 5));
+        Assert.assertEquals(56,  api.calcArea(8, 7));
         
     }
 }
